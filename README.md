@@ -2,4 +2,4 @@
 
 A demostate of technical documention page 
 
-<img src="images/doc.png" width = 1080 >
+<img src="img/doc.png" width = 1080 >
